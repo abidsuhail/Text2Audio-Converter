@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Online T2A Converter</string>
+
+    <string name="banner_ad_unit">ca-app-pub-3576860802912859/3011305052</string>
+    <string name="inters_ad_unit">ca-app-pub-3576860802912859/5040780013</string>
+    <string name="test_banner_ad_unit">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_inters_ad_unit">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
